@@ -1,2 +1,2 @@
-# A-Frame
-Building 3D scenes using A-Frame
+# Virtual Reality
+- Building 3D scenes using A-Frame
