@@ -1,2 +1,2 @@
 # WebVR
-- Building 3D scenes using A-Frame
+- A-Frame 3D scenes
